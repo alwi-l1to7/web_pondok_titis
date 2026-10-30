@@ -1,7 +1,7 @@
 # SISTEM MANAJEMEN IKOS "PONDOK TITIS"
 > **BERBASIS WEB MENGGUNAKAN ARSITEKTUR CLOUD**
 
-**Kelompok:** Kelompok 1  
+**Kelompok:** Kelompok 1 (Alwi Hamidurrofiq, M. Sulthani Qalbi, Razzan Haqiyya)  
 **Mata Kuliah:** Komputasi Awan  
 **Universitas:** Telkom University  
 
