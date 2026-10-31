@@ -10,7 +10,7 @@ async function deleteAllRooms() {
     const { data, error } = await supabase
         .from('rooms')
         .delete()
-        .neq('id', 0); // Hack to delete all
+        .neq('id', 0); 
 
     if (error) {
         console.error("Error deleting rooms:", error);
