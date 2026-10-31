@@ -19,5 +19,4 @@ async function deleteAllRooms() {
         console.log("Deleted rooms.");
     }
 }
-
 deleteAllRooms();
