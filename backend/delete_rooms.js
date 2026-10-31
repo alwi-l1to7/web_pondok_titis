@@ -7,7 +7,6 @@ const supabase = createClient(supabaseUrl, supabaseKey);
 
 async function deleteAllRooms() {
     console.log("Deleting all rooms...");
-    // Since Supabase doesn't allow a delete without a filter by default, we can just delete where id is not null.
     const { data, error } = await supabase
         .from('rooms')
         .delete()
